@@ -27,3 +27,10 @@
   font-size: 20px;
   
 }
+
+/* Task done */
+
+.task-container.done{
+  background-color: #5a01a7;
+  text-decoration: line-through;
+}
